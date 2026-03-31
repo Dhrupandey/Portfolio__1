@@ -5,7 +5,6 @@ import {
 } from "react-icons/ai";
 
 function Footer() {
-  let date = new Date();
   return (
     <Container fluid className="footer">
       <Row>
